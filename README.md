@@ -7,13 +7,14 @@ Given tweets on the subject of disasters, we will build a Machine Learning model
 
 
 ### Week 1
--Discovered the project
--Created Repository with test and training data
--Created a Slack channel for discussion
--Started the notebook, computed the base rate (57%) on 6471 samples in the training data
+- Discovered the project
+- Created Repository with test and training data
+- Created a Slack channel for discussion
+- Started the notebook, computed the base rate (57%) on 6471 samples in the training data
 
 ### Week 2
--Ran basic prediction with 0.8 accuracy on our test part of the training data
--Submitted and got 0. test accuracy
+- Ran basic prediction with 0.8 accuracy on our test part of the training data
+- Submitted and got 0.819 test accuracy
+- Did the EDA : top keywords and locations, top keywords and locations with the most real and fake tweets
 
 ### Week 3
