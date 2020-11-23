@@ -16,5 +16,6 @@ Given tweets on the subject of disasters, we will build a Machine Learning model
 - Ran basic prediction with 0.8 accuracy on our test part of the training data
 - Submitted and got 0.819 test accuracy
 - Did the EDA : top keywords and locations, top keywords and locations with the most real and fake tweets
+- Delete doubling, usernames and hastags and see a slight decrease in accuracy (0.8003)
 
 ### Week 3
