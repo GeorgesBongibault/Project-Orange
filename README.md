@@ -19,3 +19,6 @@ Given tweets on the subject of disasters, we will build a Machine Learning model
 - Delete doubling, usernames and hastags and see a slight decrease in accuracy (0.8003)
 
 ### Week 3
+- pooling of our codes
+- testing of vectorizer configs
+- testing of the RandomForest, with no improvement for the moment
