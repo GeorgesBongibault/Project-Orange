@@ -22,3 +22,10 @@ Given tweets on the subject of disasters, we will build a Machine Learning model
 - pooling of our codes
 - testing of vectorizer configs
 - testing of the RandomForest, with no improvement for the moment
+
+### Week 4
+- optimizing the hyperparameters of logistic regression, tf-idf and random forest
+- testing KNN, with still no improvement from logistic regression for the moment
+- searched for stopwords and slangs lists
+- None of our submissions were better than the first one
+
