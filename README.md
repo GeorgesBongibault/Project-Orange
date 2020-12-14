@@ -29,3 +29,10 @@ Given tweets on the subject of disasters, we will build a Machine Learning model
 - searched for stopwords and slangs lists
 - None of our submissions were better than the first one
 
+
+### Week 5
+- testing new stopwords
+- reorganisation and presentation of the code
+- testing dimension reduction and features engineering
+- testing NLTK and Doc2Wword instead of TF-IDF
+- creation of the support for the presentation
