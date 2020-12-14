@@ -40,9 +40,9 @@ Given tweets on the subject of disasters, we will build Machine Learning models 
 
 
 ## Results
-Best Submission Accuracy: 0.819
-Best Validation Accuracy: 0.8178
-Best Training Accuracy: 0.9981 (Overfitting)
+- Best Submission Accuracy: 0.819
+- Best Validation Accuracy: 0.8178
+- Best Training Accuracy: 0.9981 (Overfitting)
 
 
 
