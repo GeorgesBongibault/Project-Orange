@@ -1,0 +1,16 @@
+﻿Date,Model,Validation Accuracy,Submission accuracy
+22/11/2020,basic logistic regression,0.8108,
+22/11/2020,basic logistic regression CV,0.8154,0.819
+28/11/2020,logistic regression without duplicates,0.8013,0.806
+28/11/2020,"logistic regression with base rate = 0,5",0.7798,0.8
+28/11/2020,basic randomforest classifier with optimized tf-idf,0.7737,0.792
+05/12/2020,basic logistic regression with optimized tf-idf,0.8178,0.799
+05/12/2020,optimized logistic regression with optimized tf-idf,0.8178,0.806
+06/12/2020,optimized randomforest with optimized tf-idf,0.79,0.776
+07/12/2020,basic KNN,0.778,0.72
+08/12/2020,Optimized KNN,0.783,0.781
+12/12/2020,PCA (reduce to 1000 features) on optimized tfidf + logistic regression,0.8015,
+12/12/2020,Feature engineering,0.8131,
+13/12/2020,stopwords,0.8178,
+13/12/2020,NLTK (WordNet Lemmatizer) & drop duplicates,0.8178,
+13/12/2020,Word2Vec (wth NLTK with lemmatizer and drop duplicates),0.8126,
