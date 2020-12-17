@@ -47,4 +47,4 @@ Given tweets on the subject of disasters, we will build Machine Learning models 
 
 
 ## Video
-Soon
+https://www.youtube.com/watch?v=OQinnPFsxtI&feature=youtu.be
