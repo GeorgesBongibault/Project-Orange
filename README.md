@@ -4,10 +4,19 @@ Team Orange uses this page for updating progress on the data mining class projec
 
 
 ## Project description
-Given tweets on the subject of disasters, we will build Machine Learning models that should predict which tweets are about a real disaster and which are not.
+Given tweets on the subject of disasters, we built Machine Learning models that should predict which tweets are about a real disaster and which are not.
 
+
+## Video
+Here is a presentation of the work we have done for this project:
+https://www.youtube.com/watch?v=OQinnPFsxtI&feature=youtu.be
+
+## Notebook guidance
+You can run everything in the notebook in its order, or you can run each part independantly if you first run the importations, load the data and run the code for the evaluate and tokenizer functions (in the first logistic regression part).
 
 ## Progression
+Our work, week by week:
+
 ### Week 1
 - Discovered the project
 - Created Repository with test and training data
@@ -46,5 +55,4 @@ Given tweets on the subject of disasters, we will build Machine Learning models 
 
 
 
-## Video
-https://www.youtube.com/watch?v=OQinnPFsxtI&feature=youtu.be
+
